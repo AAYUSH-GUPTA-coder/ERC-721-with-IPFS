@@ -1,0 +1,41 @@
+{
+  "description": "This NFT proves I've created and deployed my ERC721 smart contract on Rinkeby with Alchemy Road to Web3",
+  "external_url": "https://github.com/AAYUSH-GUPTA-coder",
+  "image": "ipfs://bafybeihyvhgbcov2nmvbnveunoodokme5eb42uekrqowxdennt2qyeculm",
+  "name": "Aayush's NFT",
+  "attributes": [
+    {
+      "trait_type": "Intelligence",
+      "value": 100
+    },
+    {
+      "trait_type": "Smart Contract Skills",
+      "value": 95
+    },
+    {
+      "trait_type": "Web3 Skills",
+      "value": 90
+    },
+    {
+      "trait_type": "Love Web3",
+      "value": 100
+    },
+    {
+      "trait_type": "Solidity Skills",
+      "value": 100
+    },
+    {
+      "trait_type": "Twitter Handle",
+      "value": "Aayush_gupta_ji"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Happy"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 2
+    }
+  ]
+}
